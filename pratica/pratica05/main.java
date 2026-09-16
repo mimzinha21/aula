@@ -1,5 +1,11 @@
-package pratica.pratica05;
+package aulas_pr.pratica5;
 
-public class main {
-    
+public class Main {
+    public static void main(String[] args) {
+
+        for (int i = 1; i <= 1000; i++) {
+            System.out.println(i);
+        }
+
+    }
 }
